@@ -1,0 +1,19 @@
+{
+  "name": "npm-package-test-v-1",
+  "version": "1.0.0",
+  "description": "this is a very simple package that just greeting you :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedElachry/npm-package-test-v-1.git"
+  },
+  "author": "Ahmed Elashry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedElachry/npm-package-test-v-1/issues"
+  },
+  "homepage": "https://github.com/AhmedElachry/npm-package-test-v-1#readme"
+}
