@@ -1,6 +1,6 @@
 {
   "name": "npm-package-test-v-1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is a very simple package that just greeting you :)",
   "main": "index.js",
   "scripts": {
